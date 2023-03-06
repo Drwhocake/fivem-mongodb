@@ -4,6 +4,9 @@
     "main": "index.js",
     "license": "MIT",
     "dependencies": {
-        "mongodb": "^3.6.3"
+        "@aws-sdk/credential-providers": "^3.282.0",
+        "mongodb": "^5.1.0",
+        "mongodb-client-encryption": "^2.6.0",
+        "snappy": "^7.2.2"
     }
 }
